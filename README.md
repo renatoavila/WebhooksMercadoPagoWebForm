@@ -4,7 +4,7 @@ Exemplo simples de como uma página para receber um post do Mercado Pago usando 
 
 referência [https://www.mercadopago.com.br/developers/pt/solutions/payments/custom-checkout/webhooks/](https://www.mercadopago.com.br/developers/pt/solutions/payments/custom-checkout/webhooks/)
 
-O post deve ser realizado em: [http://localhost:62902/PaginaQueReceberaPost.aspx](http://localhost:62902/PaginaQueReceberaPost.aspx)
+O post deve ser realizado em: [http://localhost:62902/PaginaQueReceberaPost.aspx/ReceberPostMercadoPago](http://localhost:62902/PaginaQueReceberaPost.aspx/ReceberPostMercadoPago)
 
 Com os seguintes dados no body:
 

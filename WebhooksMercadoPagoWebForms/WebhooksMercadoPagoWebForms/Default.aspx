@@ -11,12 +11,13 @@
     <title>Webhooks do Mercado Pago usando WebForms</title>
 </head>
 <body>
+
     <form id="form1" runat="server">
         <div class="container m-5">
             <h1>Webhooks do Mercado Pago usando WebForms</h1>
             <p>Exemplo simples de como uma página para receber um post do Mercado Pago usando WebForms </p>
             <p>referência <a target="_blank" href="https://www.mercadopago.com.br/developers/pt/solutions/payments/custom-checkout/webhooks/">https://www.mercadopago.com.br/developers/pt/solutions/payments/custom-checkout/webhooks/</a>  </p>
-            <p>O post deve ser realizado em: <a target="_blank" href="http://localhost:62902/PaginaQueReceberaPost.aspx">http://localhost:62902/PaginaQueReceberaPost.aspx</a> </p>
+            <p>O post deve ser realizado em: <a target="_blank" href="http://localhost:62902/PaginaQueReceberaPost.aspx/ReceberPostMercadoPago">http://localhost:62902/PaginaQueReceberaPost.aspx/ReceberPostMercadoPago</a> </p>
             <p>Com os seguintes dados no body:</p>
             <p>
                 <code>{ 
