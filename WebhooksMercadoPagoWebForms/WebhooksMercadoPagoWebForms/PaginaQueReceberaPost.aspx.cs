@@ -16,7 +16,6 @@ namespace WebhooksMercadoPagoWebForms
         }
          
         [System.Web.Services.WebMethod]
-        [System.Web.Script.Services.ScriptMethod(ResponseFormat = System.Web.Script.Services.ResponseFormat.Json)]
         public static string ReceberPostMercadoPago()
         {
             var jsonString = String.Empty;
