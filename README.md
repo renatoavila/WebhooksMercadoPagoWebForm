@@ -1,4 +1,5 @@
 # Webhooks do Mercado Pago usando WebForms
+[![Build status](https://ci.appveyor.com/api/projects/status/t50jmbb34x8g84e1/branch/master?svg=true)](https://ci.appveyor.com/project/renatoavila/webhooks-mercado-pago-webforms/branch/master)
 
 Exemplo simples de como uma página para receber um post do Mercado Pago usando WebForms
 
